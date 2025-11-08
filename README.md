@@ -1,4 +1,4 @@
-# pixidock_template
+# ros2_intro
 
 [![Pre-commit](https://github.com/kenichi-maeda/ros2_intro/actions/workflows/pre-commit.yaml/badge.svg)](https://github.com/kenichi-maeda/ros2_intro/actions/workflows/pre-commit.yaml) [![Test](https://github.com/kenichi-maeda/ros2_intro/actions/workflows/test.yaml/badge.svg)](https://github.com/kenichi-maeda/ros2_intro/actions/workflows/test.yaml)
 
