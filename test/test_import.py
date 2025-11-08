@@ -3,7 +3,9 @@ def test_import_package():
     import ros2_intro
 
     # Check that __version__ exists
-    assert hasattr(ros2_intro, "__version__"), "Package should have __version__ attribute"
+    assert hasattr(
+        ros2_intro, "__version__"
+    ), "Package should have __version__ attribute"
 
 
 def test_import_core():
